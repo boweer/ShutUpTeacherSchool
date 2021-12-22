@@ -1,4 +1,4 @@
-# WhistleblowerTeacherSchool
+# Shut Up, Teacher of the School
 一套老师因言停课的高校和专业名单数据
 
 |学校|专业学院|因言受害者|告密者|受害具体情形|事件时间|
